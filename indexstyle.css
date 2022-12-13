@@ -27,7 +27,7 @@ body {
 	text-decoration: none;
 	color: darkslategray;
 	display: block;
-	padding: 40px 30px;
+	padding: 30px 30px;
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
@@ -48,7 +48,7 @@ h1 {
 .home-content {
     max-width: 80%;
     margin: auto;
-    margin-top: 150px;
+    margin-top: 140px;
 }
 
 /*formatting content blurb title of home page*/
@@ -104,6 +104,8 @@ h1 {
 .home-content-blurb article p {
     margin: 0.75rem 0.75rem 0.75rem 0.75rem;
     word-wrap: break-word;
+    font-size: 20px;
+    line-height: 1.5;
     hyphens: auto;
     color: darkslategray;
 }
@@ -117,4 +119,5 @@ footer {
 		color: darkslategray;
 		padding-top: 20px;
 		margin-left: 30px;
+		margin-bottom: 30px;
 }
