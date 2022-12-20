@@ -44,14 +44,14 @@ h1 {
 	color: #e98074;
 }
 
-/*formatting content blurb of home page*/
+/*format content*/
 .home-content {
     max-width: 80%;
     margin: auto;
     margin-top: 140px;
 }
 
-/*formatting content blurb title of home page*/
+/*format content title container*/
 .home-content-title-container {
     text-align: center;
     max-width: 80%;
@@ -63,13 +63,13 @@ h1 {
     margin-bottom: 2.5rem;
 }
 
-/*formatting content blurb title of home page*/
+/*format content title container header*/
 .home-content-title-container h1 {
     font-family: Verdana;
     font-size: 2.5rem;
 }
 
-/*formatting content blurb title of home page*/
+/*formatting content blurb title*/
 .home-content-blurb-title {
     text-align: center;
     max-width: 100%;
@@ -82,7 +82,7 @@ h1 {
     padding: 0.5rem 0rem 0.5rem 0rem;
 }
 
-/*formatting content blurb of home page*/
+/*format content on main page*/
 .home-content-blurb {
     background-color: #eae7dc;
     padding: 1rem;
@@ -93,14 +93,14 @@ h1 {
     margin-bottom: 3rem;
 }
 
-/*formatting content blurb title of home page*/
+/*format title*/
 .home-content-blurb-title {
     text-align: center;
     margin-bottom: 0.3rem;
     color: darkslategray;
 }
 
-/*formatting content blurb of home page*/
+/*format paragraph content*/
 .home-content-blurb article p {
     margin: 0.75rem 0.75rem 0.75rem 0.75rem;
     word-wrap: break-word;
